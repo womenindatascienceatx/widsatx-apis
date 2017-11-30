@@ -1,0 +1,9 @@
+# Config file with secret authorization credentials
+config.yml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Emacs
+*~
+*#
