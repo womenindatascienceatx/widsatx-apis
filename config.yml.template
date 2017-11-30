@@ -3,17 +3,11 @@ usno_solar_eclipse:  # USNO Astronomical Applications API
 google_geocoding:  # Google Geocoding API
     key:
     url: https://maps.googleapis.com/maps/api/geocode
-google_timezone:  # Google Timezone API
-    key:
-    url: https://maps.googleapis.com/maps/api/timezone
-openweathermap:  # OpenWeatherMap Weather API
-    key:
-    url: http://api.openweathermap.org/data/2.5/weather
 planet:  # Planet Data API
     key:
     url: https://api.planet.com/data/
 twitter:
     consumer_key:
-    consumer_secret: 
+    consumer_secret:
     access_token:
     access_secret_token:
